@@ -1,0 +1,64 @@
+baseURL = 'http://gangiman.github.io/'
+languageCode = 'en-us'
+title = 'Alexandr Notchenko - Personal Page'
+theme = "devise"
+
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; Copyright Year, Your Name"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/post/"
+    weight = -100
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    title = "Categories"
+    url = "/categories/"
+    weight = -90
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    title = "Projects"
+    url = "/projects/"
+    weight = -80
+
+# Configuration Features
+[params]
+  description = "My brief description"      # Your meta description of the site
+  header_title = "Alexandr Notchenko"                 # Your header title
+  header_subtitle = "Founder and AI advisor" # Your header subtitle
+  home_image = "/images/twitter_avatar.jpg"          # Path to header image starting from the static directory
+  recent_posts = 20                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "fas fa-at fa-1x"
+    href = "mailto:avnotchenko@gmail.com"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+    href = "https://github.com/gangiman"      # Link to associate with icon (http://, https://, mailto:)
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"
+    href = "https://www.linkedin.com/in/avnotchenko/"
+  [[params.social]]
+    fa_icon = "fab fa-twitter fa-1x"
+    href = "https://twitter.com/gang1man"
+  [[params.social]]
+    fa_icon = "fas fa-graduation-cap fa-1x"
+    href = "https://scholar.google.ru/citations?user=CGkNsWQAAAAJ&hl=en"
