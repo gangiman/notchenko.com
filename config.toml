@@ -1,6 +1,6 @@
-baseURL = 'http://gangiman.github.io/'
-languageCode = 'en-us'
-title = 'Alexandr Notchenko - Personal Page'
+baseURL = 'https://notchenko.com/'
+languageCode = 'en-gb'
+title = "Alexandr Notchenko: AI Founder"
 theme = "devise"
 
 relativeURLs = true
@@ -61,4 +61,4 @@ copyright = "&copy; Copyright Year, Your Name"
     href = "https://twitter.com/gang1man"
   [[params.social]]
     fa_icon = "fas fa-graduation-cap fa-1x"
-    href = "https://scholar.google.ru/citations?user=CGkNsWQAAAAJ&hl=en"
+    href = "https://scholar.google.com/citations?user=CGkNsWQAAAAJ&hl=en"

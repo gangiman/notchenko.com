@@ -1,33 +1,28 @@
-<!-- <img style="float: right;" src="/images/twitter_avatar.jpg" width="300" height="300" alt="me"></a> -->
-
-<!-- &nbsp;&nbsp;&nbsp; -->
-
 +++
 title = "About"
 description = "Index page"
-date = "2022-05-09"
+date = "2024-04-28"
 author = "Alexandr Notchenko"
 +++
 
 - Date of Brith - 9.10.1990
-- Nationality - Russian Federation
-- Place of residence - Tbilisi
+- Nationality - Russian
+- Place of residence - London, United Kingdom
 - Personal Email - **avnotchenko at gmail dot com**
-- Work Email     - **notchenko at deepcake dot io**
-- Academic Email - **a.notchenko at skoltech dot ru**
 - [My Twitter](https://twitter.com/gang1man)
 - [My Github account](https://github.com/gangiman)
 - [My Linkedin page](https://www.linkedin.com/in/avnotchenko/)
-- [Scholar profile](https://scholar.google.ru/citations?user=CGkNsWQAAAAJ&hl=en)
+- [Scholar profile](https://scholar.google.com/citations?user=CGkNsWQAAAAJ&hl=en)
 
 <!-- &nbsp;&nbsp;&nbsp;  -->
 
+I'm a second time AI Founder with 13 years of ML experience. Currently I'm a co-founder and CTO at [CyberClone](https://cyberclone.ai/). Platform for licensing likeness from talented individuals and do advanced AI production.
 
-I'am an Engineer with 12 years of ML experience, got PhD at [Skoltech](https://www.skoltech.ru/en) (ML & AI). Currently I'm a co-founder and ML-Lead at [Deepcake](https://deepcake.io/). I'm also one of original co-founder of [Open Data Science](https://ods.ai/) community — Largest Russian-language ML and AI professionals community with more than 50k members all over the world.
-
-My PhD research topic was "3D Deep Learning for Holistic Scene Reconstruction". Solving such problems requires understanding of 3D Deep Learning, Unsupervised Learning, Bayesian methods and Computer Graphics. Proponent of "Computer Vision as Inverse Graphics" approach.
-
-And in my spare time I livecode music in "Tidal Cycles" and do Digital/Tech Art.
+- Organizing London based community of Data Science and Machine Learning enthusiasts, we have more than 400 members and we meet offline every week.
+- Up until recently I was a co-founder and CTO at https://brask.ai/ (formerly deepcake) creators of https://rask.ai/.
+- finished PhD Program at [Skoltech](https://www.skoltech.ru/en), my research topic was "3D Deep Learning for Holistic Scene Reconstruction". Solving such problems requires understanding of 3D Deep Learning, Unsupervised Learning, Bayesian methods and Computer Graphics. To this day I'm believe in superiority of "Computer Vision as Inverse Graphics" approach.
+- I'm also one of original co-founder of [Open Data Science](https://ods.ai/) community — Largest Russian-language ML and AI professionals community with more than 70k members all over the world.
+- In my free time I do live-coding in "Tidal Cycles" and do Generative Digital Art.
 
 
 News and Talks {#News-and-Talks .unnumbered}
